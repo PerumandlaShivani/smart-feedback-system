@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "smart-feedback-backend": "file:.."
+  }
+}
